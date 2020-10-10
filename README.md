@@ -1,4 +1,4 @@
-local PrisonFunV3 = Instance.new("ScreenGui")
+1local PrisonFunV3 = Instance.new("ScreenGui")
 local Open = Instance.new("TextButton")
 local PlaceHolder = Instance.new("Frame")
 local Main = Instance.new("ImageLabel")
